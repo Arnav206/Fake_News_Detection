@@ -44,13 +44,7 @@ if dataframes:
 else:
     print("No datasets were loaded.")
 
-
-# kuch bhi import karna ho toh 7 line pe hi karna jha par hum kiye hai 
-# Aur bhai log please seriously banana 
-
-
 # Second Part
-# Made by 
 # Data Preprocessing 
 
 
@@ -58,7 +52,6 @@ else:
 
 
 # Third Part
-# Made by 
 # Feature Extraction (Vectorisation )
 
 
@@ -66,7 +59,6 @@ else:
 
 
 # Fourth Part
-# Made by Arpan Pandey
 # Training of model
 
 
@@ -74,7 +66,6 @@ else:
 
 
 # Fifth Part
-# Made by 
 # Evaluation
 
 
@@ -82,7 +73,6 @@ else:
 
 
 # Sixth Part
-# Made by Anurag Dubey
 # Deployment
 
 
