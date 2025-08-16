@@ -1,7 +1,6 @@
 # FAKE NEWS DETECTOR 
 
 # First Part
-# Made by Arnav 
 # Data Collection
 
 import pandas as pd
